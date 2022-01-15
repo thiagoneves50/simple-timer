@@ -1,4 +1,4 @@
-# simple-timer
+# Simple Timer JS
 This is a simple JavaScript timer.  
 
 Live link:  
